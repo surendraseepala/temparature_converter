@@ -12,4 +12,4 @@ function convertTemperature() {
     } else {
         resultElement.innerText = "Invalid unit. Please select Celsius or Fahrenheit.";
     }
-}
+} 
